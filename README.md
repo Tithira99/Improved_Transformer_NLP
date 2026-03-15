@@ -1,8 +1,8 @@
 # Transformer-Based Neural Machine Translation Improvements
 ## Project Information
-Development Period: November 2025 
-Course: Natural Language Processing with Deep Learning
-Type: University Course Project
+- Development Period: November 2025 
+- Course: Natural Language Processing with Deep Learning
+- Type: University Course Project
 
 ## Project Overview
 This project explores improvements to a Transformer-based Neural Machine Translation (NMT) model for Japanese → English translation and applies the improved model to Sinhala → English translation.
